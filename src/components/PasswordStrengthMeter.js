@@ -12,7 +12,7 @@ const PasswordStrengthMeter = ({ password }) => {
       case 1:
         return 'Weak';
       case 2:
-        return 'Fear';
+        return 'Average';
       case 3:
         return 'Good';
       case 4:
